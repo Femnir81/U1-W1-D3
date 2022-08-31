@@ -1,0 +1,40 @@
+/* Header */
+
+div {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#pippo {
+    width: 200px;
+    height: 200px;
+}
+
+.card {
+    background-color: darkcyan;
+    color: beige;
+    width: 300px;
+    height: 300px;
+}
+
+.topolino {
+    background-color: rgb(33, 129, 167);
+}
+
+.elemento:first-of-type {
+    font-size: 30px;
+}
+.elemento:nth-of-type(3) {
+    font-weight: bold;
+}
+.elemento:last-of-type {
+    font-size: 10px;
+}
+.elemento:nth-of-type(odd) {
+    background-color: cornflowerblue;
+}
+.elemento:hover {
+    background-color:blueviolet ;
+}
+

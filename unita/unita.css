@@ -1,0 +1,15 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: cyan;
+}
+
+.carta{display: inline-block;
+    margin: 2px;
+    width: 32%;
+    height: 40%;
+    background-color: azure;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
